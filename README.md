@@ -127,4 +127,4 @@ The frontend development server should start (usually on port 5173) and provide 
 
 ## License
 
-(Optional: Add a license if desired, e.g., MIT) 
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details. 
