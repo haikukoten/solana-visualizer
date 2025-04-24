@@ -123,10 +123,6 @@ The frontend development server should start (usually on port 5173) and provide 
 2.  Click the "Visualize" button.
 3.  The application will fetch data from the backend (which queries Helius) and display a graph showing the entered address connected to the top 10 addresses it has sent the most cumulative SOL to within the fetched transaction limit.
 
-## Contributing
-
-(Optional: Add contribution guidelines if desired)
-
 ## License
 
 This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details. 
